@@ -24,86 +24,60 @@ Reference document for App Store Connect listing. Copy-paste into the appropriat
 ### Promotional Text (170 chars max — shown above description, can be updated without new build)
 
 ```
-Prepare for the Hungarian citizenship interview with 183 flash cards, 133 personalized Q&As, and professional translation tools. Fully offline.
+Prepare for the Hungarian citizenship interview: 183 flash cards, personalized answers, legal document guide. Fully offline.
 ```
 
-### Full Description
+### Full Description (3,159 chars — App Store Connect safe, no special Unicode)
 
 ```
-MagyarReady helps diaspora Hungarians master the language and ace the Hungarian simplified naturalization (egyszerűsített honosítás) citizenship interview.
+Do you have Hungarian ancestry and need to prove it at the consulate?
 
-Whether you're just starting to learn Hungarian or polishing your answers before the consulate appointment, MagyarReady has everything you need — fully offline, no account required.
+MagyarReady is built specifically for the Hungarian simplified naturalization (egyszerűsített honosítás) citizenship interview. Whether you grew up hearing the language or are just beginning to prepare, MagyarReady walks you through everything you need - offline, at your own pace.
 
-──────────────────────────────────
-WHAT'S INSIDE
-──────────────────────────────────
+INTERVIEW PREP THAT KNOWS YOU
 
-🗂 183 FLASH CARDS — 15 CATEGORIES
-Master Hungarian vocabulary organized for the citizenship journey:
-• Greetings & Courtesy
-• Numbers & Time
-• Family & Relationships
-• Personal Information
-• Occupations & Work
-• Hungarian History & Geography
-• Citizenship & Legal Terms
-• Food, Colors, Adjectives, and more
+Most Hungarian apps teach you to order coffee. MagyarReady teaches you to answer "What is your connection to Hungary?" in front of a consulate officer.
 
-Track your progress with Learned and Struggling markers. Focus your study time where it matters most.
+Fill in your profile once - your name, birthplace, family history, occupation, and reasons for applying - and MagyarReady generates personalized Hungarian answers for over 80 interview questions. Your answers, not generic ones.
 
-🎙 133 INTERVIEW QUESTIONS — PERSONALIZED
-The app doesn't just give you generic answers. Fill in your Profile (name, family, ancestry, career, language level) and MagyarReady generates answers personalized to YOUR situation:
-• "Hol születtek a szülei?" → answers with your parents' actual birthplaces
-• "Hogyan tanul magyarul?" → answers with your specific learning methods
-• "Mi a foglalkozása?" → answers with your real occupation
-• And 77 more personalizable questions across 12 interview categories
+- "Where were your parents born?" answered with your parents' actual birthplaces
+- "What is your occupation?" answered with your real job title in Hungarian
+- "Why are you applying?" answered in your own words, in Hungarian
+- "Tell me about your ancestry" answered with your family's real story
 
-Plus 6 full role-play conversation scenarios so you can practice a realistic consulate interview from start to finish.
+183 FLASH CARDS - 15 CATEGORIES
 
-📚 LEGAL DOCUMENT GLOSSARY
-Understand every document in the citizenship application packet:
-• 28 documents explained in plain English
-• Official Hungarian names with pronunciation
-• What each document is, why it's required, and where to get it
-• 8 document categories: identity, ancestry, civil status, and more
+Master Hungarian vocabulary that actually comes up in citizenship interviews, not restaurant menus. Greetings, Numbers, Family, Personal Information, Occupations, History, Geography, Citizenship Terms, Food, Culture, and more.
 
-🔤 ENGLISH ↔ HUNGARIAN TRANSLATION
-• Apple's on-device Translation framework (fully private, works offline after setup)
-• Quick phrases organized by interview topic
-• Hungarian text-to-speech for every card and question
-• Pronunciation support for all 183 flash cards
+Track every card. Mark what you know. Flag what needs work. Come back to struggling cards until they stick.
 
-👤 PERSONALIZED PROFILE SYSTEM
-Enter your details once — the app uses them everywhere:
-• Auto-generates Hungarian phrases about yourself
-• Personalizes 80+ interview answers to your specific background
-• Tracks section completion so you know what's still missing
+130+ INTERVIEW QUESTIONS ACROSS 12 TOPICS
 
-──────────────────────────────────
+Real questions organized by category: Personal Details, Family Background, Hungarian Ancestry, Career and Education, Daily Life, Motivations, Language Ability, Hungarian History, Geography, Culture, Civic Knowledge, and Closing.
+
+Plus 6 full role-play conversations - practice a complete interview from "Jó reggelt kívánok" to "Köszönöm szépen." Hear every exchange out loud with built-in Hungarian text-to-speech.
+
+28 LEGAL DOCUMENTS EXPLAINED
+
+The citizenship application requires documents most people have never heard of. What is an apostille and where do you get it? What is an anyakönyvi kivonat? Which documents need a certified Hungarian translation?
+
+Every document is explained in plain English with its Hungarian name, why it's required, and where to obtain it.
+
+ENGLISH TO HUNGARIAN TRANSLATION
+
+Powered by Apple's on-device Translation - your words never leave your device. Translate anything, hear it spoken aloud in native Hungarian, save phrases for practice. Works offline after a one-time language pack download.
+
 FULLY OFFLINE
-──────────────────────────────────
 
-All flash cards, interview prep, legal documents, and conversations work with no internet connection. Perfect for studying on the plane to Hungary or in areas with no signal.
+Study on the plane to Budapest. Review flash cards in the consulate waiting room. Practice conversations with no signal. Everything works without an internet connection.
 
-──────────────────────────────────
-PREMIUM — REMOVE ALL ADS
-──────────────────────────────────
+GO PREMIUM - REMOVE ALL ADS
 
-• Monthly: $9.99/month — cancel anytime
-• Lifetime: $99.99 — one-time, forever
+The free version is fully featured. Premium removes all banner and interstitial ads so you can study without interruptions. Choose a monthly subscription (cancel anytime) or a one-time lifetime purchase.
 
-Premium removes all advertisements and supports continued development of MagyarReady.
+NOTE: MagyarReady is an educational tool only. Always verify current requirements directly with your Hungarian consulate and consult a qualified legal professional for advice specific to your situation.
 
-Subscriptions auto-renew unless cancelled at least 24 hours before the renewal date. Manage or cancel in iOS Settings → Subscriptions.
-
-──────────────────────────────────
-IMPORTANT DISCLAIMER
-──────────────────────────────────
-
-MagyarReady provides educational content only. It is not legal advice. Always verify current requirements with your Hungarian consulate and consult a qualified legal professional for your specific situation.
-
-Privacy Policy: https://github.com/defnotallc/MagyarReady-legal/blob/main/privacy-policy.md
-Support: defnota.official@gmail.com
+Sok sikert - Good luck!
 ```
 
 ---
