@@ -10,13 +10,13 @@
   "officeholderOverrides": [
     {
       "questionID": "cv4",
-      "hungarian": "Magyarország köztársasági elnöke Sulyok Tamás, akit 2024-ben választottak meg.",
-      "english": "The President of Hungary is Tamás Sulyok, elected in 2024."
+      "hungarian": "Magyarország köztársasági elnöke Baka András, akit 2026-ban választottak meg.",
+      "english": "The President of Hungary is András Baka, elected in 2026."
     },
     {
       "questionID": "cv5",
-      "hungarian": "Magyarország miniszterelnöke Orbán Viktor.",
-      "english": "The Prime Minister of Hungary is Viktor Orbán."
+      "hungarian": "Magyarország miniszterelnöke Magyar Péter.",
+      "english": "The Prime Minister of Hungary is Péter Magyar."
     }
   ]
 }
