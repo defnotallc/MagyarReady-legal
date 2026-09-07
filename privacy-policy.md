@@ -1,7 +1,7 @@
 # Privacy Policy — MagyarReady
 
 **Effective Date:** May 30, 2026  
-**Last Updated:** May 30, 2026  
+**Last Updated:** September 7, 2026  
 **App Name:** MagyarReady  
 **Developer:** Definitely Not A LLC  
 **Contact:** defnota.official@gmail.com
@@ -31,9 +31,21 @@ When you use the Profile section of MagyarReady, you may enter personal informat
 - Hungarian language level and learning methods
 - Reason for citizenship application
 
-**This information is stored exclusively on your device** using Apple's UserDefaults system. It is never uploaded to our servers or shared with third parties, except as needed to generate content within the app (such as personalized interview answers and Hungarian practice phrases).
+**This information is stored exclusively on your device**, in a file protected by iOS complete file protection (it is encrypted and unreadable while your device is locked). It is never uploaded to our servers or shared with third parties, except as needed to generate content within the app (such as personalized interview answers and Hungarian practice phrases).
 
-### 1.2 Information Collected Automatically
+### 1.2 Device Permissions
+
+MagyarReady asks for two optional permissions. Both features work only if you grant them, and the app is fully usable if you decline.
+
+**Location (approximate, "While Using the App")**
+
+The consulate locator can use your approximate location to show which Hungarian consulate is nearest to you. Location is requested at reduced accuracy, read once when you use that feature, and used only to sort a fixed, built-in list of consulates. **Your location is never stored on the device, never transmitted, and never shared with anyone.**
+
+**Microphone**
+
+The pronunciation practice feature can record your voice so you can compare it with the correct Hungarian pronunciation. **Recordings stay on your device, are never transmitted, and are deleted when you finish with the card** (and swept automatically on next launch if the app closes unexpectedly).
+
+### 1.3 Information Collected Automatically
 
 **Google AdMob (Advertising)**
 
@@ -49,12 +61,12 @@ Users in applicable regions will see a consent dialog (powered by Google's User 
 If you have enabled "Share Analytics" in your iOS settings, Apple may collect anonymized usage and crash data from your device. This data is governed by Apple's Privacy Policy:  
 https://www.apple.com/privacy/
 
-### 1.3 In-App Purchases
+### 1.4 In-App Purchases
 
 MagyarReady offers optional in-app purchases (monthly subscription and lifetime access) processed by **Apple App Store**. Apple handles all payment processing. We do not collect or store your payment information. Apple's data practices are governed by Apple's Privacy Policy:  
 https://www.apple.com/legal/privacy/
 
-### 1.4 Amazon Affiliate Links
+### 1.5 Amazon Affiliate Links
 
 MagyarReady contains affiliate links to Amazon.com products. When you tap a link, you are directed to Amazon's website. Amazon may collect information as described in Amazon's Privacy Notice:  
 https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ
@@ -77,12 +89,16 @@ Information you enter in your Profile is used **solely within the app** to:
 
 ## 3. Data Storage and Security
 
-Your profile data is stored locally on your iOS device using Apple's UserDefaults framework. It is:
+Your profile data — the personal and family information in Section 1.1 — is stored locally on your iOS device in a protected file using Apple's complete file protection. It is:
 
-- **Not transmitted to any server**
-- **Not backed up to our cloud** (standard iCloud device backup may include this data — subject to your iCloud backup settings)
-- **Protected by iOS device encryption** when your device is locked
+- **Not transmitted to any server of ours**
+- **Not synced to iCloud** (standard iCloud device *backup* may include it — subject to your own iCloud backup settings)
+- **Encrypted by iOS** and unreadable while your device is locked
 - **Deletable** at any time using "Reset All Profile Data" in the Profile tab, or by deleting the app
+
+**What does sync across your devices.** If you are signed in to iCloud, MagyarReady syncs your *study* data through Apple's iCloud key-value storage so your progress follows you between your own devices: flash card progress and review schedule, practice streaks, favourite decks, bookmarks, and any preparation notes you write. This uses **your own iCloud account** — we have no access to it and it never reaches our servers. Note that preparation notes are free text, so avoid putting sensitive details in them if you would rather they stayed on one device. Your profile (Section 1.1) is **not** included in this sync.
+
+**Network activity.** MagyarReady is otherwise offline. The only content request it makes is a periodic read of a small public file containing current exam fees and the names of Hungary's current President and Prime Minister, so that information stays accurate between app updates. This request sends no information about you — no account, no identifier, no profile data.
 
 We recommend using a device passcode or Face ID/Touch ID to protect your device.
 
@@ -96,7 +112,7 @@ We share limited data with:
 
 | Party | What | Why |
 |---|---|---|
-| Google (AdMob) | Device/advertising identifiers | To serve ads (see Section 1.2) |
+| Google (AdMob) | Device/advertising identifiers | To serve ads (see Section 1.3) |
 | Apple | Purchase information | To process in-app purchases |
 | Amazon | Click data when you follow links | To track affiliate referrals |
 
@@ -145,7 +161,9 @@ https://policies.google.com/technologies/ads
 
 ## 8. Analytics
 
-We do not directly collect analytics data. Google AdMob may collect aggregated, anonymized app usage data for ad performance measurement. We do not have access to personally identifiable information from these analytics.
+We do not collect analytics data. Google AdMob may collect aggregated, anonymized app usage data for ad performance measurement. We do not have access to personally identifiable information from these analytics.
+
+MagyarReady does keep a small set of **on-device usage counters** — how often you open each flash card category, interview category, and practice tool — purely to power the "Your Usage Insights" screen in Settings. These counters never leave your device, are not sent to us or to any third party, and you can clear them at any time from that screen.
 
 ---
 

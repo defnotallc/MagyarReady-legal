@@ -5,7 +5,7 @@ Public legal, privacy, and marketing documents for **MagyarReady** — a Hungari
 **Developer:** Definitely Not A LLC  
 **Contact:** defnota.official@gmail.com  
 **App Store:** MagyarReady (bundle ID: `com.defnota.LearnHungarian`)  
-**Source Repo:** https://github.com/defnotallc/learnhungarian
+**Source Repo:** `defnotallc/learnhungarian` (private)
 
 ---
 

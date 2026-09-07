@@ -24,7 +24,7 @@ Reference document for App Store Connect listing. Copy-paste into the appropriat
 ### Promotional Text (170 chars max — shown above description, can be updated without new build)
 
 ```
-Prepare for the Hungarian citizenship interview: 183 flash cards, personalized answers, legal document guide. Fully offline.
+Prepare for the Hungarian citizenship interview: 333 flash cards, personalized answers, legal document guide. Fully offline.
 ```
 
 ### Full Description (3,159 chars — App Store Connect safe, no special Unicode)
@@ -45,13 +45,13 @@ Fill in your profile once - your name, birthplace, family history, occupation, a
 - "Why are you applying?" answered in your own words, in Hungarian
 - "Tell me about your ancestry" answered with your family's real story
 
-183 FLASH CARDS - 15 CATEGORIES
+333 FLASH CARDS - 15 CATEGORIES
 
 Master Hungarian vocabulary that actually comes up in citizenship interviews, not restaurant menus. Greetings, Numbers, Family, Personal Information, Occupations, History, Geography, Citizenship Terms, Food, Culture, and more.
 
 Track every card. Mark what you know. Flag what needs work. Come back to struggling cards until they stick.
 
-130+ INTERVIEW QUESTIONS ACROSS 12 TOPICS
+139 INTERVIEW QUESTIONS ACROSS 12 TOPICS
 
 Real questions organized by category: Personal Details, Family Background, Hungarian Ancestry, Career and Education, Daily Life, Motivations, Language Ability, Hungarian History, Geography, Culture, Civic Knowledge, and Closing.
 
@@ -101,9 +101,9 @@ hungarian,citizenship,interview,language,flash cards,vocab,naturalization,honos�
 ```
 Welcome to MagyarReady!
 
-• 183 Hungarian flash cards across 15 categories
-• 133 citizenship interview questions with personalized answers
-• 28 legal document descriptions for the citizenship application
+• 333 Hungarian flash cards across 15 categories
+• 139 citizenship interview questions with personalized answers
+• 38 legal document descriptions for the citizenship application
 • 6 full conversation scenarios
 • English ↔ Hungarian translation with text-to-speech
 • Fully offline — study anywhere
@@ -170,4 +170,4 @@ citizenship interview. All content is educational.
 |---|---|
 | **Support URL** | https://github.com/defnotallc/MagyarReady-legal/blob/main/support.md |
 | **Privacy Policy URL** | https://github.com/defnotallc/MagyarReady-legal/blob/main/privacy-policy.md |
-| **Marketing URL** | https://github.com/defnotallc/learnhungarian *(optional)* |
+| **Marketing URL** | https://github.com/defnotallc/MagyarReady-legal *(optional — must be a public URL; the app repo is private)* |
